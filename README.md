@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar De</h1>
+<img src="https://github.com/sagarde7/sagarde7/blob/main/Github%20Banner.png">
 <h3 align="center">A passionate learner</h3>
 
 <img align="right" alt="coding" width="400" height="300" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
